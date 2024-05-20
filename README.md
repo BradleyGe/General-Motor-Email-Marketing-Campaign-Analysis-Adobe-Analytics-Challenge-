@@ -1,1 +1,1 @@
-# General Motor Email Marketing Campaign Analysis Adobe Analytics Challenge
+# General Motor Email Marketing Campaign Analysis (Adobe Analytics Challenge)
