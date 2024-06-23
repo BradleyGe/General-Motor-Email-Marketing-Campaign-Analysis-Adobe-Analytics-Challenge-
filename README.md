@@ -4,6 +4,7 @@
 Duration: Feb.22, 2024 - Feb. 28, 2024  
 
 Group Members: Bradley Ge, Valerie Chan, Jim Tiao  
+![PHOTO-2024-06-23-15-20-27](https://github.com/BradleyGe/General-Motor-Email-Marketing-Campaign-Analysis-Adobe-Analytics-Challenge-/assets/141160516/359e4963-0b61-420f-b3d6-595bbc45c826)
 
 
 Links:
