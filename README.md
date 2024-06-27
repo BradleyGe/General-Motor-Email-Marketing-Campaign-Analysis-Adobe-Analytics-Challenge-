@@ -1,5 +1,6 @@
 # General Motor Email Marketing Campaign Analysis 
 ## (Adobe Analytics Challenge)
+## TOP 1% out of 2000+ teams worldwide! Semifinalist!
 
 Duration: Feb.22, 2024 - Feb. 28, 2024  
 
